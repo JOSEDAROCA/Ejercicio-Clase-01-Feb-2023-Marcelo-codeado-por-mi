@@ -1,0 +1,17 @@
+{
+  "name": "clase-01-npm",
+  "version": "1.0.0",
+  "description": "primeros pasos con npm y node y jason",
+  "main": "proyecto01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOSE DAROCA",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.0",
+    "array-sum": "^1.0.0",
+    "array-sum-array": "^0.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
